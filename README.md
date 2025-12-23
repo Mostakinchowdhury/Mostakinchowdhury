@@ -9,7 +9,7 @@
 Welcome to my GitHub profile!
 
 
-[![Loge](img/banner.gif)](https://github.com/Siam2p)
+[![Loge](./banner.gif)](https://github.com/Mostakinchowdhury)
   
 
 
