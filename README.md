@@ -53,9 +53,9 @@ I am a versatile Full Stack Web Developer with a strong foundation in Data Analy
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostakinchowdhury&layout=compact&theme=blue-green)
 
 ><h2 style="color:#ff2b2b; font-style: italic;">📫 How to Reach Me</h2> 
-[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/sasabbir.rhaman.9/) 
-[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-siam-sheikh-9826872ab/)
-[<img src='https://hamiltonrising.com/wp-content/uploads/2018/09/website-logo-png.png?raw=true' alt='website' height='40'>](https://mdsiamsheikh-2p.netlify.app/) 
+[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/mostakin.chowdhury.58) 
+[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-mostakin-islam-b756b9363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[<img src='https://hamiltonrising.com/wp-content/uploads/2018/09/website-logo-png.png?raw=true' alt='website' height='40'>](https://mostakincodemaster.com/) 
 
 
 
